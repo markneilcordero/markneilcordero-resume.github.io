@@ -1,57 +1,73 @@
-## **Mark Neil Cordero Resume Documentation**
+## **Mark Neil Cordero Resume**
 
-### **Purpose**  
-This project serves as a personal, web-based resume and portfolio that showcases my skills, work experience, educational background, and contact details. It is designed to be easily accessible online.
-
----
-
-### **Project Details**  
-- **File:** `index.html` – Contains the main structure of the resume.
-- **Styling:** The project uses **Tailwind CSS** for styling, customized via `output.css`.
-- **Fonts:** The primary font used is `JetBrainsMono` for a modern, developer-friendly aesthetic.
-- **Optional Scripts:** The project includes optional jQuery-based interactive features (commented out for now).
+### **Welcome!**  
+Thank you for visiting my web-based resume and portfolio. This project showcases my journey as a developer, my work experience, and the skills I bring to the table. Whether you're a recruiter, a collaborator, or just exploring, I hope this gives you a clear picture of who I am and what I do.
 
 ---
 
-### **Local Setup**
+### **What You'll Find Here**  
+- **Professional Summary:** Learn about my expertise as a Full Stack Developer, including the technologies and frameworks I work with.
+- **Experience:** A timeline of my career milestones, including roles I've held and contributions I've made.
+- **Education:** Details about my academic background and relevant courses.
+- **Technical Skills:** A breakdown of my proficiency in key technologies and tools.
+- **Interests:** Insights into the areas that fuel my passion for continuous learning.
 
-1. **Clone the repository:**
+---
+
+### **How to View the Resume Locally**  
+If you'd like to explore the project on your own system:
+
+1. **Clone the repository:**  
+   Copy this link and run the following command:
    ```bash
    git clone https://github.com/markneilcordero/markneilcordero-resume.git
    ```
 
-2. **Open the project:**
+2. **Open the project:**  
    - Navigate to the project folder:
      ```bash
      cd markneilcordero-resume
      ```
-   - Open `index.html` in a web browser.
+   - Open `index.html` in your browser.
 
-3. **Optional:** Use **Live Server** for automatic reload:
+3. **Want live updates?**  
    - Open the project in **Visual Studio Code**.
    - Right-click `index.html` → **Open with Live Server**.
 
 ---
 
-### **Structure Overview**
+### **How It’s Built**  
+This project is a static web page built using the following:
+
+- **HTML5** for the structure.
+- **Tailwind CSS** for a clean, responsive design.
+- **JavaScript (jQuery)** for optional interactive elements.
+- **Custom Fonts:** `JetBrainsMono` adds a sleek, developer-friendly aesthetic.
+
+---
+
+### **Key Sections**  
 ```bash
 .
-├── index.html          # Main HTML file containing the resume content
+├── index.html          # Main HTML file containing my resume
 ├── assets/
-│   └── output.css      # Custom Tailwind CSS styles
+│   └── output.css      # Tailwind CSS styling
 ├── fonts/              # Font files (e.g., JetBrainsMono)
-└── README.md           # Documentation (this file)
+└── README.md           # Project documentation (this file)
 ```
 
 ---
 
-### **Notes for Personal Use**
-- This project is a static web page—no backend services are required.
-- Music controls and other interactive elements (like the `<audio>` player) are commented out but can be re-enabled if needed.
-- If any style changes are required, update `assets/output.css`.
+### **Why I Built This**  
+This online resume allows me to:
+- Present my work in a format that is accessible from anywhere.
+- Share a dynamic and interactive version of my traditional resume.
+- Experiment with new web development techniques to refine my skills.
 
 ---
 
-### **Live Access**  
-You can view your resume live at:  
+### **Explore the Live Version**  
+You can view the live version of my resume here:  
 [**https://markneilcordero.github.io/markneilcordero-resume/**](https://markneilcordero.github.io/markneilcordero-resume/)
+
+Feel free to look around, and if you have any questions, don’t hesitate to reach out!
